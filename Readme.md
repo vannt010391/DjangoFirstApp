@@ -14,16 +14,12 @@ This project follow by First Django App and I make this project for my team.
         - djenv\Scripts\activate.bat
         
         ````
-- Install django 3.0
-        pip install django==3.0
-- Run project
-        python manage.py runserver
+- Install django 3.0:         pip install django==3.0
+- Run project:         python manage.py runserver
 
 **Option 2**
 
 - Install python 3.6.8
 - Clone project: git clone https://github.com/vannt010391/DjangoFirstApp.git
-- Install django 3.0
-        pip install django==3.0
-- Run project
-        python manage.py runserver
+- Install django 3.0:         pip install django==3.0
+- Run project:         python manage.py runserver
